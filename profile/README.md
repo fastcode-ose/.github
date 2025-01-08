@@ -4,7 +4,7 @@ Fastcode is an open-source community dedicated to advancing software performance
 
 Whether you're just curious about SPE or a leading expert, Fastcode welcomes your participation. Here are some ways to [get involved](https://fastcode.org/get-involved/).
 
-This GitHub repository is one of several places where we keep materials for community activities. To learn more about Fastcode, please visit [https://fastcode.org](https://fastcode.org). 
+This GitHub organization is one of several places where we keep materials for community activities. To learn more about Fastcode, please visit [https://fastcode.org](https://fastcode.org). 
 
 <!--
 
